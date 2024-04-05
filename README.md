@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT and Cybersecurity Projects:</h2>
 
   - [Home Lab: Personal DNS Server](https://github.com/xJustinW/AD-Block-DNS-Server)
-  - [Toy Store Audit Simulation](https://github.com/xJustinW/AdddLabURL)
+  - [Toy Store Audit Simulation](https://github.com/xJustinW/Toy-Store-Audit-Simulation)
   - [SQL Queries: Applying Filters](https://github.com/xJustinW/AdddLabURL)
   - [Incident Handling: Journal Entries](https://github.com/xJustinW/AdddLabURL)
   - [Python: Using Algorithms For File Updates](https://github.com/xJustinW/AdddLabURL)
