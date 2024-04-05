@@ -14,7 +14,8 @@
 <h2>👨‍💻 Certifications</h2>
 
   - [Google Cybersecurity Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/RUZEVJH8K5A5)
-  - [CompTIA A+ Certificate](https://github.com/xjustinw/LABURL)
+  - [Coming Real Soon: CompTIA A+ Certificate](https://github.com/xjustinw/LABURL)
+  - [Coming Soon: CompTIA Sec+ Certificate](https://github.com/xjustinw/LABURL)
 
 
 
