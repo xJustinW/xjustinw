@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT and Cybersecurity Projects:</h2>
 
-  - [AD Blocking DNS Server](https://github.com/xJustinW/AD-Block-DNS-Server)
+  - [Home Lab: Personal DNS Server](https://github.com/xJustinW/AD-Block-DNS-Server)
   - 
 
 <h2>👨‍💻 Certifications</h2>
