@@ -5,11 +5,11 @@
   - [Home Lab: Personal DNS Server](https://github.com/xJustinW/AD-Block-DNS-Server)
   - [Toy Store Audit Simulation](https://github.com/xJustinW/Toy-Store-Audit-Simulation)
   - [SQL Queries: Applying Filters](https://github.com/xJustinW/SQL-Queries-Applying-Filters)
-  - [Incident Handling: Journal Entries](https://github.com/xJustinW/AdddLabURL)
-  - [Python: Using Algorithms For File Updates](https://github.com/xJustinW/AdddLabURL)
-  - [Linux and Least Privelege: Updating File Permissions](https://github.com/xJustinW/AdddLabURL)
-  - [Incident Report Analysis](https://github.com/xJustinW/AdddLabURL)
-  - [Vulnerability Assessment Report](https://github.com/xJustinW/AdddLabURL)
+  - [Incident Handling: Creating Journal Entries](https://github.com/xJustinW/Incident-Handling)
+  - [Python: Using Algorithms For File Updates](https://github.com/xJustinW/Python-And-Algorithms)
+  - [Linux and Least Privelege: Updating File Permissions](https://github.com/xJustinW/Linux-And-Least-Privilege)
+  - [Incident Report Analysis](https://github.com/xJustinW/Incident-Report-Analysis)
+  - [Vulnerability Assessment Report](https://github.com/xJustinW/Vulnerability-Assessment)
 
 <h2>👨‍💻 Certifications</h2>
 
