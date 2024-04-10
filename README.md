@@ -13,9 +13,13 @@
 
 <h2>👨‍💻 Certifications</h2>
 
-  - [Google Cybersecurity Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/RUZEVJH8K5A5)
-  - [Coming Real Soon: CompTIA A+ Certificate](https://github.com/xjustinw/LABURL)
-  - [Coming Soon: CompTIA Sec+ Certificate](https://github.com/xjustinw/LABURL)
+[Google Cybersecurity Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/RUZEVJH8K5A5)
+
+[Coming Real Soon: CompTIA A+ Certificate](https://github.com/xjustinw/LABURL)
+- Core 1 Passed
+- Core 2 to be taken at EOM
+
+[Coming Soon: CompTIA Sec+ Certificate](https://github.com/xjustinw/LABURL)
 
 
 
