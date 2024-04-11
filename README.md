@@ -1,5 +1,7 @@
 <h1>Hi, I'm Justin! </h1>
 
+<b>I am a passionate security analyst dedicated to safeguarding company infrastructure and implementing diverse data protection solutions to ensure security. </b>
+
 <h2>👨‍💻 IT and Cybersecurity Projects:</h2>
 
   - [Home Lab: Personal DNS Server](https://github.com/xJustinW/AD-Block-DNS-Server)
@@ -16,32 +18,16 @@
 [Google Cybersecurity Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/RUZEVJH8K5A5)
 
 [Coming Real Soon: CompTIA A+ Certificate](https://github.com/xjustinw/LABURL)
-- Core 1 Passed
-- Core 2 to be taken at EOM
+- 220-1101 - Core 1 Passed
+- 220-1102 - Core 2 to be taken at EOM
 
 [Coming Soon: CompTIA Sec+ Certificate](https://github.com/xjustinw/LABURL)
 
-
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/justin-walker-8b832b2a9/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
