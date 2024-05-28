@@ -17,9 +17,7 @@
 
 [Google Cybersecurity Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/RUZEVJH8K5A5)
 
-[Coming Real Soon: CompTIA A+ Certificate](https://github.com/xjustinw/LABURL)
-- 220-1101 - Core 1 Passed
-- 220-1102 - Core 2 to be taken at EOM
+[CompTIA A+ Certificate](https://www.credly.com/badges/795a7d96-dfcf-401d-aa34-b3b27125a101/public_url)
 
 [Coming Soon: CompTIA Sec+ Certificate](https://github.com/xjustinw/LABURL)
 
