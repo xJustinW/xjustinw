@@ -1,8 +1,8 @@
-<h1>Hi, I'm Justin! </h1>
+<h1>Glad you made it here! I'm Justin! </h1>
 
-<b>I am a passionate security analyst dedicated to safeguarding company infrastructure and implementing diverse data protection solutions to ensure security. </b>
+<b>With a joyful curiosity for all things tech, I am an avid learner in the dynamic world of technology. I'm thrilled by the endless possibilities of complex data systems and solving technical obstacles others experience. My journey in this field is driven by a passion for discovery and a desire to make a positive impact in a forward-thinking company. I am eager to bring my enthusiasm and skills to a team that values innovation and collaboration, where I can contribute to creating seamless, secure technology experiences and spread the joy of technology!</b>
 
-<h2>👨‍💻 IT and Cybersecurity Projects:</h2>
+<h2>👨‍💻 Hands-On Projects!!! </h2>
 
   - [Home Lab: Personal DNS Server](https://github.com/xJustinW/AD-Block-DNS-Server)
   - [Toy Store Audit Simulation](https://github.com/xJustinW/Toy-Store-Audit-Simulation)
@@ -19,7 +19,9 @@
 
 [CompTIA A+ Certificate](https://www.credly.com/badges/795a7d96-dfcf-401d-aa34-b3b27125a101/public_url)
 
-[Coming Soon: CompTIA Sec+ Certificate](https://github.com/xjustinw/LABURL)
+Plans for the future:
+
+- CompTIA Sec+ Certificate
 
 <h2> 🤳 Connect with me:</h2>
 
