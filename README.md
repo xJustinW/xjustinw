@@ -6,7 +6,7 @@
 
   - [Home Lab: Personal DNS Server](https://github.com/xJustinW/AD-Block-DNS-Server)
   - [Windows Server + Active Directory Installation](https://github.com/xJustinW/Active-Directory-Demo/tree/main)
-  - [Active Directory + Group Policy Demonstration]()
+  - [Active Directory + Group Policy Demonstration](https://github.com/xJustinW/Active-Directory-Group-Policy-Demonstration)
   - [Toy Store Audit Simulation](https://github.com/xJustinW/Toy-Store-Audit-Simulation)
   - [SQL Queries: Applying Filters](https://github.com/xJustinW/SQL-Queries-Applying-Filters)
   - [Incident Handling: Creating Journal Entries](https://github.com/xJustinW/Incident-Handling)
