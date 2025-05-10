@@ -10,7 +10,7 @@
 
 <h2>👨‍💻 Hands-On Projects!!! </h2>
 
-  - [WIP - Malware Analysis Lab](https://github.com/xJustinW/Home-Lab-DNS-Server/blob/main/README.md)
+  - [WIP - Malware Analysis Lab][(https://github.com/xJustinW/Home-Lab-DNS-Server/blob/main/README.md)](https://github.com/xJustinW/Malware-Analysis-Lab)
   - [Home Lab: Personal DNS Server](https://github.com/xJustinW/AD-Block-DNS-Server)
   - [Windows Server + Active Directory Installation](https://github.com/xJustinW/Active-Directory-Demo/tree/main)
   - [Active Directory + Group Policy Demonstration](https://github.com/xJustinW/Active-Directory-Group-Policy-Demonstration)
