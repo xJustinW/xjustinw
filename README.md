@@ -13,7 +13,6 @@
   - [WIP - Malware Analysis Lab](https://github.com/xJustinW/Malware-Analysis-Lab)
   - [Home Lab: Personal DNS Server](https://github.com/xJustinW/AD-Block-DNS-Server)
   - [Windows Server + Active Directory Installation](https://github.com/xJustinW/Active-Directory-Demo/tree/main)
-  - [Active Directory + Group Policy Demonstration](https://github.com/xJustinW/Active-Directory-Group-Policy-Demonstration)
   - [Toy Store Audit Simulation](https://github.com/xJustinW/Toy-Store-Audit-Simulation)
   - [SQL Queries: Applying Filters](https://github.com/xJustinW/SQL-Queries-Applying-Filters)
   - [Python: Using Algorithms For File Updates](https://github.com/xJustinW/Python-And-Algorithms)
