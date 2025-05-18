@@ -16,7 +16,6 @@
   - [Active Directory + Group Policy Demonstration](https://github.com/xJustinW/Active-Directory-Group-Policy-Demonstration)
   - [Toy Store Audit Simulation](https://github.com/xJustinW/Toy-Store-Audit-Simulation)
   - [SQL Queries: Applying Filters](https://github.com/xJustinW/SQL-Queries-Applying-Filters)
-  - [Incident Handling: Creating Journal Entries](https://github.com/xJustinW/Incident-Handling)
   - [Python: Using Algorithms For File Updates](https://github.com/xJustinW/Python-And-Algorithms)
   - [Incident Report Analysis](https://github.com/xJustinW/Incident-Report-Analysis)
   - [Vulnerability Assessment Report](https://github.com/xJustinW/Vulnerability-Assessment)
