@@ -10,7 +10,7 @@
 
 <h2>👨‍💻 Hands-On Projects!!! </h2>
 
-  - [WIP - Malware Analysis Lab](https://github.com/xJustinW/Malware-Analysis-Lab)
+  - [Malware Analysis Lab](https://github.com/xJustinW/Malware-Analysis-Lab)
   - [Home Lab: Personal DNS Server](https://github.com/xJustinW/AD-Block-DNS-Server)
   - [Toy Store Audit Simulation](https://github.com/xJustinW/Toy-Store-Audit-Simulation)
   - [SQL Queries: Applying Filters](https://github.com/xJustinW/SQL-Queries-Applying-Filters)
