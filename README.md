@@ -7,9 +7,11 @@
   - [CompTIA Security+ Certificate](https://www.credly.com/badges/ee248e74-ab6f-4333-9c52-fa22e3722a44/public_url)
   - [CompTIA A+ Certificate](https://www.credly.com/badges/795a7d96-dfcf-401d-aa34-b3b27125a101/public_url)
   - [Google Cybersecurity Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/RUZEVJH8K5A5)
+  - AWS Certified Solutions Architect (WIP)
 
 <h2>👨‍💻 Hands-On Projects!!! </h2>
 
+  - [Wazzuh + TheHive SOAR Integration Project](https://github.com/xJustinW/SOAR-Implementation)
   - [Malware Analysis Lab](https://github.com/xJustinW/Malware-Analysis-Lab)
   - [Home Lab: Personal DNS Server](https://github.com/xJustinW/AD-Block-DNS-Server)
   - [Windows Server + Active Directory Installation](https://github.com/xJustinW/Windows-Server-and-Active-Directory)
