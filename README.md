@@ -12,7 +12,7 @@
 <h2>👨‍💻 Hands-On Projects!!! </h2>
 
   - WIP - [Wazzuh + TheHive SOAR Integration Project](https://github.com/xJustinW/SOAR-Implementation)
-  - WIP - [Splunk SIEM Home Lab](https://github.com/xJustinW/Splunk-Home-Lab)
+  - WIP - [Splunk Enterprise Home Lab](https://github.com/xJustinW/Splunk-Home-Lab)
   - [Malware Analysis Lab](https://github.com/xJustinW/Malware-Analysis-Lab)
   - [Home Lab: Personal DNS Server](https://github.com/xJustinW/AD-Block-DNS-Server)
   - [Windows Server + Active Directory Installation](https://github.com/xJustinW/Windows-Server-and-Active-Directory)
